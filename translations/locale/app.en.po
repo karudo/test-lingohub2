@@ -10,7 +10,25 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: en_GB\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Little lives"
+msgstr "Little lives"
+
+msgid "Server is needed to trying this functionality"
+msgstr "Server is needed to trying this functionality"
+
+msgid "back to index"
+msgstr "back to index"
+
+msgid "change language"
+msgstr "change language"
+
+msgid "current language: %{ lang }"
+msgstr "current language: %{ lang }"
+
+msgid "password reset"
+msgstr "password reset"
