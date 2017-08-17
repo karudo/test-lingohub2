@@ -15,5 +15,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8"
 
-msgid "Are you sure?"
-msgstr "sssss"
+msgid "Little lives"
+msgstr "Little lives"
+
+msgid "Server is needed to trying this functionality"
+msgstr "Server is needed to trying this functionality"
+
+msgid "back to index"
+msgstr "back to index"
+
+msgid "change language"
+msgstr "change language"
+
+msgid "current language: %{ lang }"
+msgstr "current language: %{ lang }"
+
+msgid "password reset"
+msgstr "password reset"
