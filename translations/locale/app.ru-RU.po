@@ -31,4 +31,4 @@ msgid "current language: %{ lang }"
 msgstr "выбран язык: %{ lang }"
 
 msgid "password reset"
-msgstr "забыл пароль"
+msgstr "восстановить пароль"
